@@ -1,14 +1,14 @@
 # Hello, I'm CHANGEME
 <a href="https://www.linkedin.com/in/marwa-kamran-192193303/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+[Brief Introduction]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a fromer member of the healthcare field that has always have a love and intrest in technology and is looking to switch careers into the tech industry. 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+[Provide Objective]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey from switching carrers has been a tough on me trying to find what I am passionate about and I have found my passion with technolgy. My goal is to break into the industry and make a better world for me and my future family. 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
